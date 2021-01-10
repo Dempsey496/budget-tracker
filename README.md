@@ -1,4 +1,6 @@
-# fitness-tracker
+# budget-tracker
+
+Deployed Site: https://powerful-tor-26011.herokuapp.com/
 
 MIT License
 
